@@ -10,7 +10,7 @@
     height: 100px;
 }
 .background {
-    background-image: url(../html/images/front-end.jpg);
+    background-image: url(../image/front-end.jpg);
     background-attachment: fixed;
     background-size: 100%;
     width: 100%;
